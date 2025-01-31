@@ -37,6 +37,41 @@ For donations:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>
+      Crypto Currency
+    </th>
+    <th>
+      Network
+    </th>
+    <th>
+      Wallet ID
+    </th>
+  </tr>
+  <tr>
+    <td>
+      USDT
+    </td>
+    <td>
+      ERC20
+    </td>
+    <td>
+      0x557FB1A6c179e1dF493Ada997458FCF555479B1A
+    </td>
+  </tr>
+  <tr>
+    <td>
+      USDT
+    </td>
+    <td>
+      TRC20
+    </td>
+    <td>
+      THW6NCLjQ1UeLN7PWubfiDEJUPJXZMkeLj
+    </td>
+  </tr>
+</table>
 
 For support:
 
