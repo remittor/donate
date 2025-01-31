@@ -23,7 +23,9 @@ For donations:
   </tr>
   <tr>
     <td align="center">
+      <p>&nbsp;</p>
       <a href="https://boosty.to/remittor"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/boosty-donate.svg" valign="middle" alt="boosty donate" /></a>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <td>
       Boosty
@@ -92,7 +94,9 @@ For support:
   </tr>
   <tr>
     <td align="center">
+      <p>&nbsp;</p>
       <a href="https://oss.issuehunt.io/u/remittor"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/support/issuehunt-support.svg" valign="middle" alt="issuehunt support" /></a>
+      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
     </td>
     <td>
       IssueHunt
